@@ -7,11 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi1324&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi1324" /> </p>
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Applicaions and Open Source Projects.**
+
+- 🌱 I’m currently learning Mobile App Development and DSA.<br>
 
 - 👨‍💻 All of my projects are available at [https://mmh-portfolio.netlify.app/](https://mmh-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux, Next JS, Node Js, Express and MongoDB**
+- 💬 Ask me about **anything , I would be happy to talk to you.**
 
 - 📫 How to reach me **52mehedi.hasan@gmail.com**
 
