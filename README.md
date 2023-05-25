@@ -1,4 +1,4 @@
-![logo](https://github.com/Mehedi1324/Mehedi1324/blob/main/LinkedinBanner.png)
+![logo](https://github.com/Mehedi1324/Mehedi1324/blob/main/15295155522947.jpg)
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Hello, I'm Mehedi, a passionate web developer seeking job opportunities. I specialize in creating stunning web applications using the latest technologies and industry best practices. With expertise in front-end (HTML5, CSS3, JavaScript, React JS and Next Js.) and back-end (Node.js, Express.js, MongoDB), I deliver cutting-edge solutions. I'm a detail-oriented and collaborative developer who adapts to evolving project requirements, consistently delivering high-quality results on time. If you're looking for a dedicated web developer or React developer to create impactful digital solutions, let's have a small meeting!</h3>
 
