@@ -54,8 +54,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br>
-# <h1> 📊 GitHub Stats: </h2>
+<!-- # <h1> 📊 GitHub Stats: </h2>
 ![](https://github-readme-stats.vercel.app/api?username=Mehedi1324&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mehedi1324&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi1324&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi1324&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
